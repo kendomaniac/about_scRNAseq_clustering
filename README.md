@@ -41,6 +41,10 @@ Starting from this the GSE243665 data we have built the following datasets:
 
 - BE1-500: PC9 500, A549 500, CCL185IG 500, CRL5868 500, DV90 500, HCC78 500, HTB178 500 cells
 
+## Testing clustering approaches on BE1-500
+
+We employed the BE1-500 dataset to assess the effectiveness of various clustering tools in identifying distinct cancer subpopulations, i.e. cell lines expressing different driver genes. Our main focus was on evaluating each clustering tool's capability to distinguish the CCL185IG cell line from A549, given the complexity of BE1-500 experiment. Note: CCL185IG and A549 cell line are syngeneic, and the ALK fusion is exclusively expressed in the CCL185IG cell line.
+
 
 
 
